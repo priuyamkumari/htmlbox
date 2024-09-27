@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    margin:0;
+    color:aliceblue;
+}
+#navbar {
+    height: 60px;
+    background-color: black;
+
+}
+
+button {
+    background-color: rgb(184, 161, 1);
+}
+
+#logo {
+    color: rgb(184, 161, 11);
+    font-size: 25px;
+    }
+
+a {
+    margin-right: 200px;
+}
